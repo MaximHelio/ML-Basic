@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/banner5.jpg" alt="banner" width="800" />
-</p>
 
 # Introduction to Machine Learning for chemists
 
@@ -49,8 +46,3 @@ Precision, and Recall) are examined.
 Regression analysis is performed to predict wine density based on other physicochemical
 properties. Correlations between other attributes and density are calculated. Both simple and multiple
 linear regression analyses are performed, and the importance of standardization is exhibited. Lastly, LASSO regularization strategy is applied, paying attention to the magnitude and meaning of the regularization constant.
-
-
-<p align="center">
-  <img src="https://github.com/ML4chemArg/Intro-to-Machine-Learning-in-Chemistry/blob/main/images/Fig1.png" alt="fig1" width="400"/>
-</p>
